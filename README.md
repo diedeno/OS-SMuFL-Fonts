@@ -1,2 +1,2 @@
 # OS-SMuFL-Fonts
-Lilypond fonts remapped to SMuFL
+Open source (GPL3 or SIL open font license) Lilypond fonts remapped to SMuFL.
