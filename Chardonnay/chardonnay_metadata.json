@@ -2673,7 +2673,7 @@
         "noteheadSlashWhiteWhole": {
             "bBoxNE": [
                 3.016,
-                1.052
+                2.052
             ],
             "bBoxSW": [
                 0.0,
@@ -4181,5 +4181,67 @@
             "codepoint": "0XEAAD"
         }
     },
-    "glyphsWithAnchors": {}
+    
+    "glyphsWithAnchors": {
+        "noteheadXBlack": {
+               "stemDownNW": [
+                0.036, 
+                -0.436
+               ], 
+               "stemUpSE": [
+                1.340, 
+                0.480
+               ]
+        }, 
+        "noteheadXHalf": {
+               "stemDownNW": [
+                0.036, 
+                -0.436
+               ], 
+               "stemUpSE": [
+                1.450, 
+                0.408
+               ]
+        },
+        "noteheadSlashWhiteHalf": {
+            "stemDownNW": [
+                2.344,
+                1.0
+            ],
+            "stemUpSE": [
+                0.0,
+                -1.02
+            ]
+        },
+        "noteShapeTriangleUpWhite": {
+            "stemDownNW": [
+                0.0,
+                -0.4
+            ],
+            "stemUpSE": [
+                1.316,
+                -0.4
+            ]
+        },
+        "noteheadSlashHorizontalEnds": {
+            "stemDownNW": [
+                0.0,
+                -1.02
+            ],
+            "stemUpSE": [
+                1.712,
+                1.04
+            ]
+        },
+        "noteheadSlashWhiteHalf": {
+            "stemDownNW": [
+                0.0,
+                -1.008
+            ],
+            "stemUpSE": [
+                2.344,
+                1.004
+            ]
+        }
+    }    
 }
