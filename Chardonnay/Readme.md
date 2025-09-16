@@ -2,11 +2,11 @@ This font is distributed under the GNU General Public License. As a special exce
 
 Copyright (c) 2025 Diego Denolf (graffesmusic) - mapping to SMuFL standard and renamed Chardonnay. 
 
-Originally for use with Musescore:
+Originally named Parnassus; for use with Musescore:
 Copyright (C) 2013  Kristof Bastiaensen
 
 Modified for use with LilyPond:
-Copyright (C) 2014  Abraham Lee
+Copyright (C) 2014  Abraham Lee with name Paganini.
 
 Original announcement (via archive.org)
 (https://web.archive.org/web/20141125150420/http://www.resonata.be/archives/117)
