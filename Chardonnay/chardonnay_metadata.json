@@ -4183,24 +4183,44 @@
     },
     
     "glyphsWithAnchors": {
+        "noteheadHalf": {
+            "stemUpSE": [
+                1.25,
+                0.212
+            ],
+            "stemDownNW": [
+                0.0,
+                -0.212
+            ]
+        },
+        "noteheadBlack": {
+            "stemDownNW": [
+                0.0,
+                -0.216
+            ],
+            "stemUpSE": [
+                1.23,
+                0.212
+            ]
+        },
         "noteheadXBlack": {
                "stemDownNW": [
-                0.036, 
+                0.0, 
                 -0.436
                ], 
                "stemUpSE": [
-                1.340, 
-                0.480
+                1.315, 
+                0.400
                ]
         }, 
         "noteheadXHalf": {
                "stemDownNW": [
-                0.036, 
-                -0.436
+                0.0, 
+                -0.350
                ], 
                "stemUpSE": [
-                1.450, 
-                0.408
+                1.510, 
+                0.360
                ]
         },
         "noteheadSlashWhiteHalf": {
@@ -4221,6 +4241,16 @@
             "stemUpSE": [
                 1.316,
                 -0.4
+            ]
+        },
+        "noteShapeTriangleRoundWhite": {
+            "stemDownNW": [
+                0.0,
+                -0.4
+            ],
+            "stemUpSE": [
+                1.313,
+                0.130
             ]
         },
         "noteheadSlashHorizontalEnds": {
