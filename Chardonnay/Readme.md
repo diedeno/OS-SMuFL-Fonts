@@ -1,3 +1,5 @@
+###  Work in progress 
+
 This font is distributed under the GNU General Public License. As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License.
 
 Copyright (c) 2025 Diego Denolf (graffesmusic) - mapping to SMuFL standard and renamed Chardonnay. 
